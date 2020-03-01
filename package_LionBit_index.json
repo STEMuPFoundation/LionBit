@@ -8,7 +8,7 @@
       "websiteURL": "https://github.com/STEMuPFoundation/LionBit", 
       "platforms": [
         {
-          "category": "ESP32", 
+          "category": "LionBit", 
           "name": "LionBit", 
           "url": "https://github.com/STEMuPFoundation/LionBit/tree/master/hardware/LionBit/1.0.0/lionBit.zip", 
           "checksum": "SHA-256:d9108bf873933c4e48a3ca401fb51e41b2cc3f98d7c9b9be9881e7ca34bf0efe", 
@@ -16,7 +16,7 @@
             "online": ""
           }, 
           "version": "1.0.0", 
-          "architecture": "esp32", 
+          "architecture": "LionBit", 
           "archiveFileName": "lionBit.zip", 
           "boards": [
             {
